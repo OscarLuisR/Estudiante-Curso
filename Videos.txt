@@ -1,0 +1,5 @@
+Video
+https://www.youtube.com/watch?v=JhXfp8Hza7k&list=PLvRPaExkZHFn_EGzNOXsWqtAAGl8ZCbUo&index=32&ab_channel=VidaMRR
+
+Teoria
+https://github.com/marcosrivasr/Sample-CRUD-Node-Express
